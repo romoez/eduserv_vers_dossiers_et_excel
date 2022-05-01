@@ -1,0 +1,700 @@
+
+<notelev_xml>
+    <iuense>0085008005</iuense>
+    <libens>المعز رمضان</libens>
+    <email>moez.romdhane@tarbia.tn</email>
+    <codeeetab>121721</codeeetab>
+    <libeetab>معهد  نهج العطارين أريانة</libeetab>
+    <codeperiodexam>31</codeperiodexam>
+    <libperiodexam>الثلاثي الرابع</libperiodexam>
+    <codeclass>31220201</codeclass>
+    <libeclass>رابعة رياضة 1</libeclass>
+    <codematiere>2001</codematiere>
+    <libematier>إعلامية</libematier>
+    <nbrclass>4</nbrclass>
+    <codedre>12</codedre>
+    <drear>ـأريانة</drear>
+    <nbrEleve>24</nbrEleve>
+    <codedisc>20</codedisc>
+    <libedisc>إعلامية</libedisc>
+    <typeepr>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <abretypeeprear>ع.ت.د</abretypeeprear>
+    </typeepr>
+    <typeepr>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <abretypeeprear>ف.ت.</abretypeeprear>
+    </typeepr>
+    <noteelev>
+        <numOrdre>1</numOrdre>
+        <prenomnom>الصادق ساسي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190119</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>2</numOrdre>
+        <prenomnom>مختار ذويب</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00200332</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>3</numOrdre>
+        <prenomnom>علي الكعبي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190127</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>4</numOrdre>
+        <prenomnom>خالد القاسمي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190118</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>5</numOrdre>
+        <prenomnom>محسن العبيدي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190190</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>6</numOrdre>
+        <prenomnom>نجيب غميض</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190163</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>7</numOrdre>
+        <prenomnom>تميم الحزامي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190120</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>8</numOrdre>
+        <prenomnom>حمادي العقربي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190121</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>9</numOrdre>
+        <prenomnom>محمد علي عقيد</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190168</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>10</numOrdre>
+        <prenomnom>طارق ذياب</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190158</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>11</numOrdre>
+        <prenomnom>عبد الرؤوف بن عزيزة</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190220</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>12</numOrdre>
+        <prenomnom>خميس العبيدي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190170</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>13</numOrdre>
+        <prenomnom>نجيب ليمام</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190088</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>14</numOrdre>
+        <prenomnom>صلاح قروي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190105</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>15</numOrdre>
+        <prenomnom>محمد علي موسى</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00180036</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>16</numOrdre>
+        <prenomnom>غيث التيجاني الشعري</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190108</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>17</numOrdre>
+        <prenomnom>غاليـــة غربـــال</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190184</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>18</numOrdre>
+        <prenomnom>كمال الشبلي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190310</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>19</numOrdre>
+        <prenomnom>مختار حسني</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190068</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>20</numOrdre>
+        <prenomnom>عمر الجبالي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190070</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>21</numOrdre>
+        <prenomnom>لامين بن عزيزة</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190092</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>22</numOrdre>
+        <prenomnom>المختار النايلي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00180386</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>23</numOrdre>
+        <prenomnom>ميسون بوخريص</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190327</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>24</numOrdre>
+        <prenomnom>عبد المجيد الشتالي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>32</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190312</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>عدد التقييم الدوري</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>1</numOrdre>
+        <prenomnom>الصادق ساسي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190119</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>2</numOrdre>
+        <prenomnom>مختار ذويب</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00200332</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>3</numOrdre>
+        <prenomnom>علي الكعبي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190127</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>4</numOrdre>
+        <prenomnom>خالد القاسمي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190118</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>5</numOrdre>
+        <prenomnom>محسن العبيدي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190190</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>6</numOrdre>
+        <prenomnom>نجيب غميض</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190163</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>7</numOrdre>
+        <prenomnom>تميم الحزامي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190120</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>8</numOrdre>
+        <prenomnom>حمادي العقربي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190121</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>9</numOrdre>
+        <prenomnom>محمد علي عقيد</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190168</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>10</numOrdre>
+        <prenomnom>طارق ذياب</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190158</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>11</numOrdre>
+        <prenomnom>عبد الرؤوف بن عزيزة</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190220</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>12</numOrdre>
+        <prenomnom>خميس العبيدي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190170</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>13</numOrdre>
+        <prenomnom>نجيب ليمام</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190088</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>14</numOrdre>
+        <prenomnom>صلاح قروي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190105</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>15</numOrdre>
+        <prenomnom>محمد علي موسى</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00180036</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>16</numOrdre>
+        <prenomnom>عثمان الشهيبي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190108</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>17</numOrdre>
+        <prenomnom>رضا اللوز</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190184</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>18</numOrdre>
+        <prenomnom>كمال الشبلي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190310</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>19</numOrdre>
+        <prenomnom>مختار حسني</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190068</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>20</numOrdre>
+        <prenomnom>عمر الجبالي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190070</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>21</numOrdre>
+        <prenomnom>لامين بن عزيزة</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190092</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>22</numOrdre>
+        <prenomnom>المختار النايلي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00180386</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+    <noteelev>
+        <numOrdre>23</numOrdre>
+        <prenomnom>عبد المجيد الشتالي</prenomnom>
+        <CODEMATI>2001</CODEMATI>
+        <CODETYPEMATI>10</CODETYPEMATI>
+        <CODETYPEEPRE>40</CODETYPEEPRE>
+        <NUMEEPRE>1</NUMEEPRE>
+        <IDENELEV>00190327</IDENELEV>
+        <NOTEEPRE>--.--</NOTEEPRE>
+        <CODEETAB>121721</CODEETAB>
+        <libTypeEpr>فرض تأليفي</libTypeEpr>
+        <libeMat>إعلامية</libeMat>
+        <obseprof></obseprof>
+    </noteelev>
+</notelev_xml>
